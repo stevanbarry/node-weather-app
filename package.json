@@ -1,0 +1,28 @@
+{
+  "name": "node-weather",
+  "version": "1.0.0",
+  "description": "This is a test app using node & weather API",
+  "main": "index.js",
+  "scripts": {
+    "test": "TEST"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevanbarry/node-weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "app",
+    "node",
+    "api"
+  ],
+  "author": "@stevanbarry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevanbarry/node-weather-app/issues"
+  },
+  "homepage": "https://github.com/stevanbarry/node-weather-app#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
